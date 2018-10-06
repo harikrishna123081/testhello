@@ -1,0 +1,14 @@
+<suite name="Yahoo">
+<test name="tst_sanity_firefox">
+   <parameter name="browser" value="firefox" />
+      <classes>
+         <class name="yahoo.SanityTest"/>                
+       </classes>
+   </test>   
+ <test name="tst_retest_firefox">
+   <parameter name="browser" value="firefox" />
+      <classes>
+         <class name="yahoo.ReTest"/>                
+       </classes>
+   </test>    
+  </suite>
