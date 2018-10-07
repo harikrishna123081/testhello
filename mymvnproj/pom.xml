@@ -50,12 +50,7 @@
 	    <version>3.1.5</version>
 	    <scope>provided</scope>
 	</dependency>  
-	<dependency>
-	    <groupId>org.reuse</groupId>
-	    <artifactId>reuse</artifactId>
-	    <version>1.0</version>	   
-	</dependency>  
-  </dependencies>
+</dependencies>
   <build>
 		<plugins>
 			<plugin>
