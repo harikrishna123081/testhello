@@ -1,11 +1,10 @@
 package yahoo;
 
 import org.openqa.selenium.By;
+
 import org.testng.Reporter;
 
 import com.aventstack.extentreports.Status;
-
-import common.Generic;
 
 public class Compose extends MainClass
 {
