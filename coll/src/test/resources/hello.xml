@@ -1,0 +1,7 @@
+<suite name="helo">
+<test name="tst_hello">
+      <classes>
+         <class name="colls.Hello"/>                
+       </classes>
+   </test>      
+  </suite>
